@@ -1,4 +1,4 @@
-﻿Package: com.filippocloud.ios15mod
+Package: com.filippocloud.ios15mod
 Name: iOS 15 Icone e Control Center
 Version: 1.0
 Section: Tweaks
@@ -6,7 +6,6 @@ Architecture: iphoneos-arm
 Maintainer: Mr.Negative <mr.negative@gmail.com>
 Author: Mr.Negative
 Depends: com.laughingquoll.controlcenterxi, com.anemonetheming.anemone
-Filename: ./debs/ios15mod.deb
+Filename: debs/ios15mod.deb
 Size: 1024
 Description: Modifica completa per iPod Touch 5. Installa le icone flat stile iOS 15 e il Control Center Eleven.
-
