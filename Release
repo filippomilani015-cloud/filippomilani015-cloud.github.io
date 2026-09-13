@@ -1,8 +1,8 @@
-Origin: Mr.Negative
-Label: Mr.Negative
+Origin: Mr.Negative Repo
+Label: Mr.Negative Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Repo di Mr.Negative
+Description: Repository ufficiale di Mr.Negative
